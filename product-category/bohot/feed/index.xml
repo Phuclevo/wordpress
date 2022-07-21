@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>bohurt</title>
-		<link>https://phuclevo.github.io/wordpress/product/bohurt/</link>
-					<comments>https://phuclevo.github.io/wordpress/product/bohurt/#respond</comments>
+		<link>https://phuclevo.github.io/wordpress/shop/bohurt/</link>
+					<comments>https://phuclevo.github.io/wordpress/shop/bohurt/#respond</comments>
 		
 		<dc:creator><![CDATA[phuc]]></dc:creator>
 		<pubDate>Thu, 21 Jul 2022 07:01:43 +0000</pubDate>
@@ -44,7 +44,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phuclevo.github.io/wordpress/product/bohurt/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phuclevo.github.io/wordpress/shop/bohurt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
